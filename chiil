@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Samski Business Structure</title>
+    <meta name="description" content="Samski Enterprise business firm website">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Samski Business Structure</h1>
+<p>Welcome to Samski Enterprise business firm</p>
+
+<h2>About Me</h2>
+<p>I am learning coding/programming to understand the business community and help others enroll in different fields.</p>
+
+<h2>Skills</h2>
+<ul>
+    <li>HTML</li>
+    <li>CSS (Beginner)</li>
+</ul>
+
+<h2>Contact</h2>
+<a href="mailto:samuelkiokoisaac39@gmail.com">Send Email</a>
+
+<hr>
+
+<h2>Business Entry Form</h2>
+<form>
+    <label>Name</label>
+    <input type="text" placeholder="Your Name">
+
+    <label>Email</label>
+    <input type="email" placeholder="Your Email">
+
+    <label>Contact</label>
+    <input type="text" placeholder="Your Phone Number">
+
+    <label>Password</label>
+    <input type="password" placeholder="Password">
+
+    <input type="submit" value="Submit">
+</form>
+
+<hr>
+
+<h2>My Courses</h2>
+<table>
+    <tr>
+        <th>Course</th>
+        <th>Level</th>
+    </tr>
+    <tr>
+        <td>HTML</td>
+        <td>Beginner</td>
+    </tr>
+    <tr>
+        <td>CSS</td>
+        <td>Beginner</td>
+    </tr>
+</table>
+
+<footer>
+    © 2026 Samski Enterprise
+</footer>
+
+</body>
+</html>
